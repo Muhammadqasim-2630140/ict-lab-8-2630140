@@ -1,1 +1,2 @@
 Git basics: add, commit, and push
+git status checks working tree; git log shows history
